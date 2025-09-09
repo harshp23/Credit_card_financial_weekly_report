@@ -95,7 +95,12 @@ To deliver actionable insights for business decision-makers by analyzing large-s
 - Power Query (Data Cleaning)
 
 
-
+## Results
+- Total Revenue Generated: ₹57M with 667K+ transactions, delivering strong insights into cardholder behavior.
+- Blue Card Holders: Contributed ₹47M (80% of total revenue), emerging as the primary driver of business growth.
+- Customer Segments: Businessmen (₹18M) and Graduates (₹23M) generated the highest revenue across job and education categories.
+- Transaction Channels: In-person (Swipe & Chip) accounted for ₹53M, while Online contributed only ₹4M — revealing opportunities for digital adoption.
+- Quarterly Performance: Q4 delivered the highest revenue (₹14.5M) despite fewer transactions, indicating seasonal spending patterns.
 
 
 
